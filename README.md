@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Code-Maniac-Rza
 - 👀 I’m interested in developing wonders for a positive cause
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on any project on C++
+- 💞️ I’m looking to collaborate on any project on Web Development with MERN Stack
 - 📫 How to reach me : Mail me at rzashahryar896@gmail.com
 
 <!---
