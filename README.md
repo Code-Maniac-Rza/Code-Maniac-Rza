@@ -19,9 +19,13 @@ Let's collaborate! Whether it's discussing code, sharing insights, or collaborat
 🏆 **Achievements**
 
 2023 Interviewed at Google for SWE Intern’24
+
 2023 Contributor GirlScript Summer of Code
+
 2023 Contributer Social Summer of Code
+
 2023 Global Rank 479 Starters 50 contest by Codechef
+
 2022 Organizer Google Developer’s Hub for HashCode’22
 
 📫 **Contact**
